@@ -126,11 +126,11 @@ navigation_header:
 # - title: Elements
 #  url: /elements/
 - title: News
-  url: /News/
+  url: /news/
 - title: Events
-  url: /Events/
-#- title: Categories
-#  url: /categories/
+  url: /events/
+- title: Categories
+  url: /categories/
 - title: Search
   url: /search/
 #- title: Fork Alembic
