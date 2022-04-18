@@ -96,8 +96,8 @@ lang: en-GB # Set the site language
 title: "Humanities Data Inquiry" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Humanities Data Inquiry is a community-based exploration of data-use in traditional humanities research." # Site description and default description, also used in jekyll-seo-tag
-url: "https://caedmon5.github.io/HDI/" # Site url, also used in jekyll-seo-tag
-baseurl: "HDI/"
+url: "https://caedmon5.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "/HDI"
 repo: "https://github.com/caedmon5/HDI"
 email: "humanitiesdatainquiry@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
